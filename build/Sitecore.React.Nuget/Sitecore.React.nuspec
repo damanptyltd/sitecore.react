@@ -17,8 +17,8 @@
         <tags>Sitecore, React, ReactJS</tags>
         <dependencies>
             <group targetFramework=".NETFramework0.0">
-                <dependency id="React.Web.Mvc4" version="3.0.1" />
-                <dependency id="System.Web.Optimization.React" version="3.0.1" />
+                <dependency id="React.Web.Mvc4" version="3.3.0" />
+                <dependency id="System.Web.Optimization.React" version="3.3.0" />
                 <dependency id="WebGrease" version="1.5.2" />
                 <dependency id="Antlr" version="3.4.1" />
             </group>

@@ -17,7 +17,7 @@
         <tags>Sitecore, React, ReactJS</tags>
         <dependencies>
             <group targetFramework=".NETFramework0.0">
-                <dependency id="Sitecore.React" version="2.0.0" />
+                <dependency id="Sitecore.React" version="2.0.2" />
             </group>
         </dependencies>
     </metadata>
