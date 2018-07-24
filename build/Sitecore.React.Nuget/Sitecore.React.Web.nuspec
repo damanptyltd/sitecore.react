@@ -12,12 +12,12 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>The config required for the Sitecore web project</description>
         <releaseNotes>https://github.com/GuitarRich/sitecore.react</releaseNotes>
-        <copyright>Richard Seal (c) 2016-2017</copyright>
+        <copyright>Richard Seal (c) 2016-2018</copyright>
         <language />
         <tags>Sitecore, React, ReactJS</tags>
         <dependencies>
             <group targetFramework=".NETFramework0.0">
-                <dependency id="Sitecore.React" version="2.0.2" />
+                <dependency id="Sitecore.React" version="2.0.3" />
             </group>
         </dependencies>
     </metadata>
